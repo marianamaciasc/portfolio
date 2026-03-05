@@ -1,11 +1,11 @@
 :root {
   /* Light Mode Colors */
-  --background-light: #556B2F;
+  --background-light: #B37BA4;
   --section-bg-light: #F5F5F5;
   --text-light: #000000;
-  --link-light: #7B4F9D;
-  --button-light: #7B4F9D;
-  --button-hover-light: #432b55;
+  --link-light: #1D3461;
+  --button-light: #D99AC5;
+  --button-hover-light: #AD7A99;
   --button-text-light: #FFFFFF;
   --image-bg-light: #FFFFFF;
   --border-light: #e1e1e1;
@@ -21,14 +21,14 @@
   --shadow-top-light: 0 -4px 8px var(--shadow-color-light);
 
   /* Dark Mode Colors */
-  --background-dark: #2D3339;
-  --section-bg-dark: #38471f;
+  --background-dark: #247BA0;
+  --section-bg-dark: #1F487E;
   --text-dark: #FFFFFF;
   --link-dark: #6DABFF;
-  --button-dark: #6DABFF;
+  --button-dark: #247BA0;
   --button-hover-dark: #004099;
   --button-text-dark: #FFFFFF;
-  --card-bg-dark: #2D3339;
+  --card-bg-dark: #7A9E7E;
   --image-bg-dark: #f2f2f2;
   --border-dark: #2D3339;
   --underline-dark: #FFFFFF;
